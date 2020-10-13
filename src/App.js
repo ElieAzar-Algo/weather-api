@@ -7,10 +7,12 @@ import fakeWeatherData from "./fakeWeatherData.json";
 import "./App.css";
 
 class App extends Component {
+
+  
   constructor(props) {
     super(props);
     this.state = {
-      name: "Karim"
+      name: "elie"
     };
   }
 
