@@ -1,6 +1,6 @@
 
 
-.search-btn{
+.search-btn button{
 
     background-color:#5879C7;
     padding:20px;
@@ -11,7 +11,7 @@
 
 }
 
-.input{
+#input-name{
 
     margin-left: 50px;
     background-color: rgb(117, 158, 218);
