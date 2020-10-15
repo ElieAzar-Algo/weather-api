@@ -1,3 +1,31 @@
-div {
-    border: 25px solid black;
+
+
+.search-btn{
+
+    background-color:#5879C7;
+    padding:20px;
+    border-style: hidden;
+    
+    margin-bottom: 30px;
+    margin-left: 80px;
+
+}
+
+.input{
+
+    margin-left: 50px;
+    background-color: rgb(117, 158, 218);
+    border-style: hidden;
+    color:white;
+    font-size: 22px;
+    font-family: "Raleway", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+::-webkit-input-placeholder {
+  color:rgb(236, 234, 234);
+  opacity: 40%;
+  
 }
